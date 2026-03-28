@@ -1,0 +1,9 @@
+﻿Stay Safe Online Checklist
+* Strong passwords + 2FA: Use unique strong passwords for college email, UPI apps, and social media. Always turn on two-factor authentication.
+* Never share UPI PIN/OTP: Never tell anyone your UPI PIN, OTP, or bank details — even if they say they are from your bank or college.
+* Double-check before UPI payment: Always verify the recipient’s name and mobile number on the screen before confirming any UPI transfer.
+* Official apps only: Download banking/UPI apps (GPay, PhonePe, Paytm) only from Google Play Store or Apple App Store. Avoid links sent on WhatsApp.
+* Think before you click: Never click unknown links or download files from emails, WhatsApp, or Instagram — most are phishing scams.
+* Public Wi-Fi caution: Avoid using college/public Wi-Fi for banking, exam forms, or logging into important accounts.
+* Privacy first: Never post your college ID, Aadhaar number, exam roll number, or live location on social media.
+* Update everything: Keep your phone, apps, and antivirus updated to block the latest threats.
