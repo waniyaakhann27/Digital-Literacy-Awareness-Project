@@ -37,4 +37,5 @@ link of the hackerrank certificate: https://www.hackerrank.com/certificates/c4c7
 
 link of the github profile:(https://github.com/waniyaakhann27)
 
-link of the canva infographic: https://www.canva.com/design/DAHFKGYt9cY/cz3KAm2A9e1kputy36dV-g/edit?utm_content=DAHFKGYt9cY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+link of the canva infographic:https://canva.link/slg10gklxztxui7
+
